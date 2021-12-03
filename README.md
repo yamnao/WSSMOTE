@@ -14,11 +14,11 @@ Code and Tab3 are developed in this JupyterLab.
 # Prerequises:
 Download the Jupyter Lab in your session
 
-For WSSMOTE.ipynb file: 
-    1. Open the WSSMOTE.ipynb file
-    2. Install higra: pip install higra (or uncomment first cell)
-    3. Install smote-variants: pip install smote-variants (or uncomment second cell)
-    4. Install imbalanced-learn: pip install -U imbalanced-learn (or uncomment third cell)
+For WSSMOTE.ipynb file: \\
+    1. Open the WSSMOTE.ipynb file \\
+    2. Install higra: pip install higra (or uncomment first cell) \\
+    3. Install smote-variants: pip install smote-variants (or uncomment second cell) \\
+    4. Install imbalanced-learn: pip install -U imbalanced-learn (or uncomment third cell) \\
     5. Change the path to access to Parameters.xlsx file
     6. Launch file
 
