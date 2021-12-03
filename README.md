@@ -34,5 +34,5 @@ For WSSMOTE_ChessBoard.ipynb file:
 Run all the WSSMOTE.ipynb file, results will appear at the end in several tabs (each tab represents an oversampling method).
 
 ## Authors:
-Ouchtar Yamna, Laurent Najmann, Benjamin Perret
+Ouchtar Yamna, Laurent Najman, Benjamin Perret
 
