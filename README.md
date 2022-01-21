@@ -3,7 +3,7 @@
 For several real-world problems, the dataset is composed of two or more imbalanced classes: a minority and majority ones. 
 With usual machine learning methods, this imbalance often leads to poor results where the majority class is over-fitted while the minority class is misclassified. 
 To alleviate these issues, several pre-processing methods, such as SMOTE andDBSMOTE, create new artificial points for the minority class. 
-Nevertheless, these oversampling methods explicitly or implicitly make hypothesesabout the clusters size, shape, or density that may not fit the datasetin  practice.  
+Nevertheless, these oversampling methods explicitly or implicitly make hypotheses about the clusters size, shape, or density that may not fit the datasetin  practice.  
 We  propose  to  improve  these  oversampling methods and reduce cluster assumptions, by relying on a parameter-freeclassifier:  the  watershed-cut.  We  called  this  method  WSSMOTE. 
 Code and Tab3 are developed in this JupyterLab. 
 
